@@ -224,7 +224,8 @@ plt.show()
 
   3.Cropped image:
 
-  ![Screenshot 2025-03-04 133702](https://github.com/user-attachments/assets/88ef31c4-4b94-4aed-a51a-f25efc8a121c)
+  ![image](https://github.com/user-attachments/assets/40c4f3d3-113c-45a3-8527-7ff6254f0f33)
+
 
 
   4.Resize and flip Horizontally:
